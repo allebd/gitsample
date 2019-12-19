@@ -1,2 +1,2 @@
 # gitsample
-sample of git
+sample of git workflow
